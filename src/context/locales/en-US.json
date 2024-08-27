@@ -1,0 +1,1894 @@
+{
+	"meta": {
+		"home-title": "Find the best global talent.",
+		"home-desc": "Hire Freelancers & Find Freelance Jobs Online | Service",
+		"aboutus-title": "Unveiling Our Story | Fwork - Innovators, Collaborators, and Visionaries",
+		"aboutus-desc": "Discover the captivating journey and ethos behind Fwork. ",
+		"login-title": "Fwork - Access your Account and Find Your Dream Job, Talents",
+		"login-desc": "Login to Hire Freelancers & Find Work | Freelancer",
+		"register-title": "Join Fwork | Create Your Job Seeker Account",
+		"register-desc": "Register for a free account on Fwork and gain access to a vast selection of job opportunities",
+		"uploadresume-title": "Upload Your Resume | Enhance Your Job Search on Fwork",
+		"uploadresume-desc": "Elevate your job search on Fwork by uploading your resume",
+		"updatepassword-title": "Update Your Password | Secure Your Account on Fwork",
+		"updatepassword-desc": "Maintain the security of your Fwork account by updating your password",
+		"blog-list-title": "Latest Insights and Articles | Fwork Job Site Blog | Fwork",
+		"blog-list-desc": "Stay up-to-date with the latest industry trends, career advice, and job market insights on the Fwork Job Site Blog.",
+		"blog-detail-title": "Exploring Blog | Fwork Job Site Blog",
+		"blog-detail-desc": "Delve into Blog on the Fwork Job Site Blog",
+		"contactus-title": "Contact Fwork Job Site | Get in Touch with Our Team",
+		"contactus-desc": "Reach out to the dedicated team at Fwork Job Site for any inquiries, feedback, or assistance",
+		"employer-detail-title": "Explore Employer Details | Fwork Job Site",
+		"employer-detail-desc": "Discover comprehensive details about the employer on Fwork Job Site, including company information, job listings, and organizational insights.",
+		"freelancer-list-title": "Find Skilled Freelancers | Fwork Job Site",
+		"freelancer-list-desc": "Browse and hire talented freelancers on Fwork Job Site.",
+		"freelancer-detail-title": "Experienced Freelancer | Fwork Job Site",
+		"freelancer-detail-desc": "Discover the profile, an experienced freelancer",
+		"influencer-title": "Fwork Influencer Program | Turn your influence into income",
+		"influencer-desc": "Join the ranks of influencers who earn commissions by promoting the world's largest marketplace of digital services.",
+		"invitefriend-title": "Find the best global talent.",
+		"invitefriend-desc": "Get rewarded with the Fwork Referral Program",
+		"job-list-title": "Find Jobs | Job Vacancies | Fwork Job Site",
+		"job-list-desc": "Explore a wide range of job vacancies across various industries and roles at Fwork Job Site.",
+		"job-detail-title": "Fwork Job",
+		"job-detail-desc": "Explore the detailed job description on Fwork Job Site",
+		"learn-list-title": "Discover Career Resources and Insights | Fwork Job Site",
+		"learn-list-desc": "Expand your career knowledge and gain valuable insights with Fwork Job Site's learn page.",
+		"learn-detail-title": "Job Search Tips, Career Guidance, and Professional Development | Fwork Job Site",
+		"learn-detail-desc": "Fwork Job Site's learn section provides invaluable job search tips, career guidance, and professional development resources to help you succeed.",
+		"order-checkout-title": "Secure and Convenient Order Checkout | Fwork Job Site",
+		"order-checkout-desc": "Complete your purchase with ease and confidence on Fwork Job Site's secure and convenient order checkout page.",
+		"order-payment-title": "Secure Payment Processing | Fwork Job Site",
+		"order-payment-desc": "Experience seamless and secure payment processing on Fwork Job Site's order payment page",
+		"project-list-title": "Explore Exciting Job Projects | Fwork Job Site",
+		"project-list-desc": "Discover a diverse range of captivating job projects on Fwork Job Site's project list page.",
+		"project-detail-title": "Detailed Project Overview | Fwork Job Site",
+		"project-detail-desc": "Gain comprehensive insights into the enticing project details available on Fwork Job Site's project detail page",
+		"search-service-title": "Search results of service - Fwork",
+		"search-service-desc": "Find the best offers from freelancers. Fwork Professional Services",
+		"service-category-title": "Explore Diverse Service Categories | Fwork Job Site",
+		"service-category-desc": "Discover an array of specialized service categories on Fwork Job Site's service category page.",
+		"service-detail-title": "Professional Services | Fwork Job Site",
+		"service-detail-desc": "Experience exceptional services on Fwork Job Site.",
+		"service-list-title": "Explore Diverse Service Categories on Fwork Job Site | Find the Perfect Solution",
+		"service-list-desc": "Find the best offers from freelancers. Fwork Professional Services",
+		"top-service-title": "Explore the Best Services on Fwork Job Site | Trusted Service Providers | Fwork",
+		"top-service-desc": "Discover the top-rated services on Fwork Job Site and connect with trustworthy service providers in various industries.",
+		"notfound-title": "404 - Page Not Found | Fwork",
+		"affiliate-home-title": "affiliate home",
+		"affiliate-home-desc": "affiliate description",
+		"affiliate-register-title": "affiliate home",
+		"affiliate-register-desc": "affiliate description",
+		"notfound-desc": "The requested URL was not found | Fwork",
+		"userpage-title": "Profile page | Fwork Job Site",
+		"userpage-desc": "Create your profile and join a thriving community of freelancers and businesses looking to collaborate."
+	},
+	"header": {
+	
+	},
+	"ui": {
+		
+	},
+	"app": {
+	
+	},
+	"footer": {
+		
+	},
+	"home": {
+	},
+	"welcome": {
+		
+	},
+	"bonus": {
+		
+	},
+	"learn": {
+		
+	},
+	"auth": {
+		
+	},
+	"service": {
+		
+	},
+	"order": {
+		
+	},
+	"freelancer": {
+		
+	},
+	"project": {
+		
+	},
+	"job": {
+		
+	},
+	"blog": {
+		
+	},
+	"aboutus": {
+		
+	},
+	"import-resume": {
+		
+	},
+	"create-profile": {
+		
+	},
+
+	"account": {
+		
+	},
+	"affiliate": {
+		
+	},
+	"influencer": {
+		
+	},
+	"referral": {
+		
+	},
+	"contactus": {
+		
+	},
+	"category": {
+		
+	},
+	"categoryMeta": {
+		"aa": [
+			"game type",
+			"Select the dimension of the game you develop (if you develop in both types, create different gig for each dimension type)*"
+		],
+		"ab": [
+			"game-engine",
+			"Select the game engine you use to plan and code the game.*"
+		],
+		"ac": [
+			"platform-type",
+			"Select up to 3 platforms for which you build games.*"
+		],
+		"ad": [
+			"voice-language",
+			"Select your narration language*"
+		],
+		"ae": [
+			"genre",
+			"Select the genre of games you develop."
+		],
+		"af": [
+			"voice-gender",
+			"Select your gender:*"
+		],
+		"ag": [
+			"voice-purpose",
+			"Select the type of voice over you provide*"
+		],
+		"ah": [
+			"voice-age-range",
+			"Select your age:*"
+		],
+		"ai": [
+			"voice-tone",
+			"Select up to 5 tones of voice you deliver in this Gig*"
+		],
+		"aj": [
+			"plugins",
+			"Select the plugins you support"
+		],
+		"ak": [
+			"software",
+			"Which live streaming software will you be using to set up your streaming services?*"
+		],
+		"al": [
+			"platform",
+			"Please select the platforms for which you provide services."
+		],
+		"am": [
+			"purpose",
+			"Which live streaming genre are you specialized in. You can select more than one."
+		],
+		"an": [
+			"programming language",
+			"Select the language you provide services for*"
+		],
+		"ao": [
+			"frontend-framework",
+			"Select up to five frontend frameworks you are an expert in"
+		],
+		"ap": [
+			"backend-framework",
+			"Select up to five backend frameworks you are an expert in"
+		],
+		"aq": [
+			"expertise",
+			"Select up to five areas you are an expert in"
+		],
+		"ar": [
+			"platform*",
+			"Select the mobile platform for which you provide services. If your service includes both an iOS and an Android app in the delivery, chose the “iOS & Android (Dual)” option*"
+		],
+		"as": [
+			"app-type*",
+			"Select the technology type of the app*"
+		],
+		"at": [
+			"development-technology*",
+			"Please select up to three types of technologies that you use to develop apps. You can create more gigs to support additional technologies*"
+		],
+		"au": [
+			"purpose*",
+			"Which app purpose are you specialized in? You can select up to 10 purposes*"
+		],
+		"av": [
+			"expertise*",
+			"Select up to 6 areas you are an expert in*"
+		],
+		"aw": [
+			"ai-engine*",
+			"Please choose which AI engine(s) you have experience working with:*"
+		],
+		"ax": [
+			"delivery-type*",
+			"Select the delivery type*"
+		],
+		"ay": [
+			"data-type*",
+			"The type of data you work with"
+		],
+		"az": [
+			"programming-language*",
+			"The programming language you work in*"
+		],
+		"a0": [
+			"device",
+			"Select the device for which you provide services"
+		],
+		"a1": [
+			"operating-system",
+			"Select the Operating system you provide services for"
+		],
+		"a2": [
+			"also-delivering",
+			"Are any of these services included in your basic Gig or Extras?"
+		],
+		"a3": [
+			"lesson purpose",
+			"Select the type of lesson you offer*"
+		],
+		"a4": [
+			"student age",
+			"Select the age group of the students you teach*"
+		],
+		"a5": [
+			"development technology",
+			"Select the programming language or technology you teach*"
+		],
+		"a6": [
+			"bot type",
+			"Please select up to three different purposes that you develop chatbots for"
+		],
+		"a7": [
+			"bot type",
+			"Please select the messaging platform that you develop chatbots for*"
+		],
+		"a8": [
+			"development-technology",
+			"Please select up to three types of platforms that you use to develop chatbots"
+		],
+		"a9": [
+			"convert from",
+			"Select the file format to convert from*"
+		],
+		"ba": [
+			"convert to",
+			"Select the file format to convert to*"
+		],
+		"bb": [
+			"age-range",
+			"Select your age group"
+		],
+		"bc": [
+			"education",
+			"Select your education level"
+		],
+		"bd": [
+			"testing-platform",
+			"Select the platform for which you provide services"
+		],
+		"be": [
+			"user-device",
+			"Select the device that will be used for testing"
+		],
+		"bf": [
+			"language",
+			"What language do you write in?"
+		],
+		"bg": [
+			"testing platform",
+			"Select the platform for which you provide services*"
+		],
+		"bh": [
+			"qa-device",
+			"Select the device that will be used for testing*"
+		],
+		"bi": [
+			"trading-platform",
+			"Please select the trading platform that you can develop trading bots for"
+		],
+		"bj": [
+			"trading-platform",
+			"Please select the trading platform that you can develop trading bots for"
+		],
+		"bk": [
+			"entry-type",
+			"Select the type of data entry service you will provide*"
+		],
+		"bl": [
+			"entry-tool",
+			"Select the tool you are using in your service*"
+		],
+		"bm": [
+			"data-formatting-technology",
+			"Please select the technology you use*"
+		],
+		"bn": [
+			"data-formatting-industry",
+			"Please select the industries you're an expert in*"
+		],
+		"bo": [
+			"data-formatting-type",
+			"Please select the data types you support*"
+		],
+		"bp": [
+			"data-mining-technology",
+			"Please select up to 5 technologies you use to mine or scrape data*"
+		],
+		"bq": [
+			"data-information-type",
+			"Please select up to five information types you support*"
+		],
+		"br": [
+			"data-technique",
+			"Please choose the technique you use to mine or scrape data*"
+		],
+		"bs": [
+			"data-expertise",
+			"Select the areas you are expert in*"
+		],
+		"bt": [
+			"engineering-technology",
+			"Select the tool or software in which you provide services*"
+		],
+		"bu": [
+			"governance-expertise",
+			"Please choose up to three domains you're an expert in*"
+		],
+		"bv": [
+			"project-focus",
+			"Please select the up to four project types*"
+		],
+		"bw": [
+			"database-type",
+			"Please select the type of databases for which you provide services*"
+		],
+		"bx": [
+			"cloud-platform",
+			"Please select the cloud platforms in which you provide services*"
+		],
+		"by": [
+			"database-expertise",
+			"Select up to 4 areas you are an expert in*"
+		],
+		"bz": [
+			"database-expertise",
+			"Please select the database platforms in which you provide services*"
+		],
+		"b0": [
+			"industry expertise",
+			"Please select the industries you focus on: *"
+		],
+		"b1": [
+			"search-language",
+			".Please select the language you provide your service in. *"
+		],
+		"b2": [
+			"search-engine",
+			"Please select up to 2 search engines you support:*"
+		],
+		"b3": [
+			"search-industry",
+			"Please select up to 2 search engines you support:*"
+		],
+		"b4": [
+			"seo-platform-type",
+			"Choose the primary platform that you help buyers with:*"
+		],
+		"b5": [
+			"seo-industry",
+			"Select the industries you focus on:"
+		],
+		"b6": [
+			"social-platform-type",
+			"Please select the primary platforms that you support:*"
+		],
+		"b7": [
+			"target-audience",
+			"Select the two groups that best represent your following/audience*"
+		],
+		"b8": [
+			"marketing-platform-type",
+			"Please select the primary platform where you engage with your audience/followers*"
+		],
+		"b9": [
+			"communityindustry",
+			"Please choose up to 5 industries you specialize in.*"
+		],
+		"ca": [
+			"community-presence",
+			"Please choose the type of community you specialize in.*"
+		],
+		"cb": [
+			"digital-platform",
+			"For online communities - please choose the digital platform you specialize in."
+		],
+		"cc": [
+			"email-platform",
+			"Select the primary platforms that you operate on:"
+		],
+		"cd": [
+			"guest-industry",
+			"Select the industries you focus on: *"
+		],
+		"ce": [
+			"guest-type",
+			"Select the service type that best describes this gig:*"
+		],
+		"cf": [
+			"affiliate-industry",
+			"Select up to 5 industries you specialize in:"
+		],
+		"cg": [
+			"ad-network",
+			"Select the ad networks you work with: *"
+		],
+		"ch": [
+			"placement",
+			"Select the placements you offer: *"
+		],
+		"ci": [
+			"ad-format",
+			"Select the ad format you work with:*"
+		],
+		"cj": [
+			"display-industry",
+			"Select the industries you focus on:*"
+		],
+		"ck": [
+			"text-platform",
+			"Select the primary platforms that you operate on:*"
+		],
+		"cl": [
+			"text-language",
+			"Select the languages you support:*"
+		],
+		"cm": [
+			"messaging-type",
+			"Please select the type of messaging you support: *"
+		],
+		"cn": [
+			"analytics-industry",
+			"Please choose up to 5 industries you specialize in:"
+		],
+		"co": [
+			"strategy-purpose",
+			"Select the purpose of the marketing plan:*"
+		],
+		"cp": [
+			"business-stage",
+			"Select the business types you plan to serve:*"
+		],
+		"cq": [
+			"business-type",
+			"Select the business types you plan to serve:*"
+		],
+		"cr": [
+			"advice-topic",
+			"Select the topics of your expertise: *"
+		],
+		"cs": [
+			"music-platform",
+			"Please select the primary music platforms you support *"
+		],
+		"ct": [
+			"industry-musical-genre",
+			"Select the music genres you support.*"
+		],
+		"cu": [
+			"target-country",
+			"Select the countries you specialize in (or select 'worldwide'). *"
+		],
+		"cv": [
+			"industry-platform-type",
+			"Select the type of media you work with. *"
+		],
+		"cw": [
+			"channel",
+			"Select up to 2 channels you will use for your promotion.*"
+		],
+		"cx": [
+			"podcast-language",
+			"Please select one language"
+		],
+		"cy": [
+			"podcast-category",
+			"Please select up to three podcast categories"
+		],
+		"cz": [
+			"podcast-aggregator",
+			"Please select up to three podcast aggregators"
+		],
+		"c0": [
+			"application-store",
+			"Select the mobile application stores you work with:*"
+		],
+		"c1": [
+			"mobile-industry",
+			"Select the industries you specialize in:"
+		],
+		"c2": [
+			"crowdfunding-platform-type",
+			"Please select the primary crowdfunding platforms you support"
+		],
+		"c3": [
+			"video-type",
+			"Select the primary type of videos you edit*"
+		],
+		"c4": [
+			"intro/outro-type",
+			"Select the type of service you provide:"
+		],
+		"c5": [
+			"video-file-format",
+			"What are the video file formats you will be offering?"
+		],
+		"c6": [
+			"video-software",
+			"Select the application that your templates are compatible with: *"
+		],
+		"c7": [
+			"subtitles-language",
+			"Select the languages of the subtitles you can create*"
+		],
+		"c8": [
+			"videos-platform",
+			"Select your platform of expertise*"
+		],
+		"c9": [
+			"social-video-type",
+			"Select the video type you create"
+		],
+		"da": [
+			"video-orientation",
+			"Please select up to 3 options"
+		],
+		"db": [
+			"social-media-platform",
+			"Select your social media platform of expertise:*"
+		],
+		"dc": [
+			"social-video-style",
+			"Select the video style you create*"
+		],
+		"dd": [
+			"content-type",
+			"Select all the video content types you offer in your service: *"
+		],
+		"de": [
+			"music-videos-style",
+			"Select the style of canvas you offer. *"
+		],
+		"df": [
+			"slideshow-type",
+			"Pick the type(s) of video slideshows that you will deliver*"
+		],
+		"dg": [
+			"logo-animation-type",
+			"Select the type of animation you provide"
+		],
+		"dh": [
+			"logo-animation-file-format",
+			"Select the file formats you provide"
+		],
+		"di": [
+			"character-animation-type",
+			"Select the animation type you provide*"
+		],
+		"dj": [
+			"character-style",
+			"Select the style of characters you animate*"
+		],
+		"dk": [
+			"character-purpose",
+			"Select the main purpose for animations you create*"
+		],
+		"dl": [
+			"character-software",
+			"Select the software you use with expertise to animate characters.*"
+		],
+		"dm": [
+			"gifs-purpose",
+			"Select the type of GIFs you're creating*"
+		],
+		"dn": [
+			"gifs-animation style",
+			"Choose the style of GIFs you create*"
+		],
+		"do": [
+			"gifs-file-format",
+			"Select the file formats you can deliver"
+		],
+		"dp": [
+			"kids-animation-style",
+			"Select the type of animation you provide"
+		],
+		"dq": [
+			"kids-video-type",
+			"Select the type of video you offer"
+		],
+		"dr": [
+			"animation-streaming-platform",
+			"Select the streaming platform you animate for"
+		],
+		"ds": [
+			"asset-type",
+			"Select the primary type of asset you animate"
+		],
+		"dt": [
+			"web-file-format",
+			"Select the file formats you provide *"
+		],
+		"du": [
+			"nft-animation-dimension",
+			"Select the dimension in which you create animations:*"
+		],
+		"dv": [
+			"nft-style",
+			"Select your artwork style:*"
+		],
+		"dw": [
+			"nft-service-type",
+			"Select the type of service you provide:*"
+		],
+		"dx": [
+			"city",
+			"Select the city where you provide videography services:*"
+		],
+		"dy": [
+			"videography-type",
+			"Select the kinds of videography that you specialize in:*"
+		],
+		"dz": [
+			"special-equipment",
+			"Select any special equipment that you can use at an additional cost; we suggest you also add custom extras accordingly."
+		],
+		"d0": [
+			"filmed-content-type",
+			"Select the content types you provide*"
+		],
+		"d1": [
+			"filmed-city",
+			"Select the city in which you primarily provide video production services:*"
+		],
+		"d2": [
+			"filmed-special-equipment",
+			"Select any special equipment that you can use at an additional cost; we suggest you also add custom extras accordingly."
+		],
+		"d3": [
+			"presentor",
+			"Select the video participants*"
+		],
+		"d4": [
+			"videos-language",
+			"Select your languages:*"
+		],
+		"d5": [
+			"accent",
+			"Select your accents:"
+		],
+		"d6": [
+			"videos-age-range",
+			"Select your age:*"
+		],
+		"d7": [
+			"background/environment",
+			"Select the video background you provide:"
+		],
+		"d8": [
+			"file-format",
+			"Select the file formats you provide in your basic Gig or Extras"
+		],
+		"d9": [
+			"videos-device",
+			"Please select the type of device for which you will do the screencast*"
+		],
+		"ea": [
+			"course-type",
+			"Select the type of course you offer in this Gig*"
+		],
+		"eb": [
+			"crowdfunding-video-type",
+			"Select the video type you create*"
+		],
+		"ec": [
+			"videos-industry-expertise",
+			"Select the industries for which you are an expert in creating videos.*"
+		],
+		"ed": [
+			"3d-industry",
+			"Select an industry for your Gig"
+		],
+		"ee": [
+			"environment",
+			"Select the type of environment you can provide in this Gig"
+		],
+		"ef": [
+			"3d-file-format",
+			"Select the file formats in which you deliver"
+		],
+		"eg": [
+			"marketplace-expertise",
+			"Select the marketplaces for which you are an expert in creating videos:*"
+		],
+		"eh": [
+			"ecommerce-video-type",
+			"Select the primary type of video you'll create:*"
+		],
+		"ei": [
+			"product-type",
+			"Select the product types you take videos of:*"
+		],
+		"ej": [
+			"corporate-video-style",
+			"Select the style of video you create*"
+		],
+		"ek": [
+			"corporate-video-type",
+			"Select the video types you create*"
+		],
+		"el": [
+			"corporate-industry-expertise",
+			"Select the industries for which you are an expert in creating videos.*"
+		],
+		"em": [
+			"app-product-type",
+			"Please choose the type of product for which you will create the preview*"
+		],
+		"en": [
+			"trailer-style",
+			"Select the type of game trailers you create"
+		],
+		"eo": [
+			"meditation-video-type",
+			"Choose the type of meditation video you offer:*"
+		],
+		"ep": [
+			"real-promoted-subject",
+			"Please select the subject of the promotional video*"
+		],
+		"eq": [
+			"book-type",
+			"Select the type of book trailer you will create*"
+		],
+		"er": [
+			"video-topic",
+			"Select the topics of your expertise:*"
+		],
+		"es": [
+			"blog-language",
+			"Select the language(s) in which you write.*"
+		],
+		"et": [
+			"blog-topic",
+			"Please select up to 2 article topics*"
+		],
+		"eu": [
+			"blog-tone",
+			"Please select the tone of voice for your article*"
+		],
+		"ev": [
+			"article-type",
+			"Select the kind of article you write *"
+		],
+		"ew": [
+			"content-strategy-type",
+			"Select the type of content that you will include *"
+		],
+		"ex": [
+			"strategy-language",
+			"Please select languages:*"
+		],
+		"ey": [
+			"strategy-industry-expertise",
+			"Select your industry expertise (if any)"
+		],
+		"ez": [
+			"website-language",
+			"Select the language(s) in which you write.*"
+		],
+		"e0": [
+			"website-content-type",
+			"Select the type of content that you will create.*"
+		],
+		"e1": [
+			"scriptwriting-language",
+			"Select the language(s) in which you write.*"
+		],
+		"e2": [
+			"writing-language",
+			"What language do you write in?*"
+		],
+		"e3": [
+			"podcast-writing-category",
+			"Select up to 3 categories for which you will write podcast content *"
+		],
+		"e4": [
+			"podcast-writing",
+			"Select the language(s) in which you write.*"
+		],
+		"e5": [
+			"speech-type",
+			"Select the type of speech you write:*"
+		],
+		"e6": [
+			"speech-language",
+			"Select the language(s) in which you write."
+		],
+		"e7": [
+			"research-service-type",
+			"What type of service do you provide?*"
+		],
+		"e8": [
+			"research-service-type",
+			"What type of service do you provide?*"
+		],
+		"e9": [
+			"editing-language",
+			"Please select the relevant language for proofreading or editing*"
+		],
+		"fa": [
+			"editing-content-type",
+			"Please select the type of content that you will proofread or edit*"
+		],
+		"fb": [
+			"book-editing-genre",
+			"Select your book genre expertise:*"
+		],
+		"fc": [
+			"book-language",
+			"Select the language in which you write.*"
+		],
+		"fd": [
+			"beta-genre",
+			"Select your book genre expertise"
+		],
+		"fe": [
+			"beta-language",
+			"Select the relevant language(s).*"
+		],
+		"ff": [
+			"writing-topic",
+			"Select the topics of your expertise:*"
+		],
+		"fg": [
+			"writing-industry",
+			"Mark the industries you're focusing on:"
+		],
+		"fh": [
+			"resume-language",
+			"What language do you write in?*"
+		],
+		"fi": [
+			"writing-topic",
+			"Please select your industry of expertise *"
+		],
+		"fj": [
+			"cover-industry",
+			"Please select your industry of expertise *"
+		],
+		"fk": [
+			"cover-language",
+			"Please select the language(s) in which you write*"
+		],
+		"fl": [
+			"service-type",
+			"Select the type of service you will provide in this gig*"
+		],
+		"fm": [
+			"linkedin-language",
+			"Select the language(s) in which you write.*"
+		],
+		"fn": [
+			"job-language",
+			"Please select the language(s) in which you will write the job description*"
+		],
+		"fo": [
+			"job-type",
+			"Select the type of job that you will write the job description for.*"
+		],
+		"fp": [
+			"tone-industry",
+			"Select your industry of expertise*"
+		],
+		"fq": [
+			"tone-language",
+			"Select your industry of expertise*"
+		],
+		"fr": [
+			"name-service",
+			"Select the service you will name*"
+		],
+		"fs": [
+			"business-language",
+			"Select the language(s) in which you write.*"
+		],
+		"ft": [
+			"case-industry",
+			"Select your industry of expertise*"
+		],
+		"fu": [
+			"case-language",
+			"Select the language(s) in which you write.*"
+		],
+		"fv": [
+			"white-purpose",
+			"Select the purpose of the white paper that you will write*"
+		],
+		"fw": [
+			"white-topic",
+			"Select the topic of your white paper*"
+		],
+		"fx": [
+			"white-language",
+			"Select the language(s) in which you write.*"
+		],
+		"fy": [
+			"product-language",
+			"Select the language(s) in which you write.*"
+		],
+		"fz": [
+			"product-platform",
+			"Select the type of platform for which you write product descriptions.*"
+		],
+		"f0": [
+			"ad-language",
+			"Please select the language in which you will write.*"
+		],
+		"f1": [
+			"advertising-medium",
+			"Please select the relevant advertising medium (s).*"
+		],
+		"f2": [
+			"sales-language",
+			"Select the language(s) in which you write.*"
+		],
+		"f3": [
+			"email-language",
+			"Select the language(s) in which you write.*"
+		],
+		"f4": [
+			"email-copy-type",
+			"Please select the type(s) of email that you will write.*"
+		],
+		"f5": [
+			"social-purpose",
+			"Select the purpose of the social copy*"
+		],
+		"f6": [
+			"social-copy-platform",
+			"Select the social channel for which you will write the copy*"
+		],
+		"f7": [
+			"social-language",
+			"Select the language(s) in which you write.*"
+		],
+		"f8": [
+			"press-language",
+			"Please select the language(s) in which you write.*"
+		],
+		"f9": [
+			"ux-platform",
+			"Select the platform(s) for which you write: *"
+		],
+		"ga": [
+			"ux-language",
+			"Select the language(s) in which you write.*"
+		],
+		"gb": [
+			"translation-language",
+			"Select the language(s) in which you write.*"
+		],
+		"gc": [
+			"document-type",
+			"Select document type"
+		],
+		"gd": [
+			"translation-industry-expertise",
+			"Select your industry expertise (if any)"
+		],
+		"ge": [
+			"localization-content-type",
+			"Please select the type of content that you will localize*"
+		],
+		"gf": [
+			"localization-language",
+			"Please select languages:*"
+		],
+		"gg": [
+			"localization-industry-expertise",
+			"Select your industry expertise (if any)"
+		],
+		"gh": [
+			"transcription-language",
+			"Select the language(s) in which you write.*"
+		],
+		"gi": [
+			"course-level",
+			"Select the level of the course.*"
+		],
+		"gj": [
+			"elearning-language",
+			"Select the language in which you will create the course content.*"
+		],
+		"gk": [
+			"course-subject",
+			"Select the subject of the course.*"
+		],
+		"gl": [
+			"technical-document-type",
+			"Select the type of technical documents you write*"
+		],
+		"gm": [
+			"technical-industry",
+			"Please select your industry expertise"
+		],
+		"gn": [
+			"technical-language",
+			"Select the language(s) in which you write.*"
+		],
+		"go": [
+			"grant-industry",
+			"Please select your field of expertise*"
+		],
+		"gp": [
+			"grant-language",
+			"Select the language(s) in which you write.*"
+		],
+		"gq": [
+			"other-lanuage",
+			"Select the language(s) in which you write.*"
+		],
+		"gr": [
+			"photographers-product-type",
+			"Select the product types you take photos of*"
+		],
+		"gs": [
+			"photographers-photo-setting",
+			"Select the primary setting in which you take photos (you can add more at the Pricing step)*"
+		],
+		"gt": [
+			"photographers-purpose",
+			"Choose the purpose expertise*"
+		],
+		"gu": [
+			"photographers-city",
+			"Select the city you can shoot at*"
+		],
+		"gv": [
+			"food-type",
+			"Select the food types you take photos of*"
+		],
+		"gw": [
+			"food-photo-setting",
+			"Select the primary setting in which you’ll take food photos (you can add more at the Pricing step)*"
+		],
+		"gx": [
+			"food-city",
+			"Select the city you can shoot at*"
+		],
+		"gy": [
+			"food-purpose",
+			"Choose the purpose expertise*"
+		],
+		"gz": [
+			"fashion-type",
+			"Select your photography expertise*"
+		],
+		"g0": [
+			"fashion-photo-setting",
+			"Select the primary setting in which you take photos (you can add more at the Pricing step)*"
+		],
+		"g1": [
+			"fashion-city",
+			"Select the city you can shoot at*"
+		],
+		"g2": [
+			"fashion-purpose",
+			"Choose the purpose expertise*"
+		],
+		"g3": [
+			"portrait-city",
+			"Select the city you can shoot at*"
+		],
+		"g4": [
+			"protrait-subject",
+			"Select the types of portraits you specialize in*"
+		],
+		"g5": [
+			"photo-setting",
+			"Select the primary setting in which you take photos (you can add more at the Pricing step)*"
+		],
+		"g6": [
+			"protrait-camera",
+			"Select the type of camera you use*"
+		],
+		"g7": [
+			"event-type",
+			"Select your event photography expertise*"
+		],
+		"g8": [
+			"event-city",
+			"Select the city you can shoot at*"
+		],
+		"g9": [
+			"real-type",
+			"Select your photography expertise*"
+		],
+		"ha": [
+			"real-property",
+			"Select the property types you take photos of*"
+		],
+		"hb": [
+			"real-city",
+			"Select the city you can shoot at*"
+		],
+		"hc": [
+			"scenic-environment",
+			"Choose the environment you specialize in: *"
+		],
+		"hd": [
+			"plans-language",
+			"Select the languages you are able to support*"
+		],
+		"he": [
+			"plans-business-type",
+			"Select the business types you plan to serve:"
+		],
+		"hf": [
+			"plan-format",
+			"Select the format you will send to your customer:"
+		],
+		"hg": [
+			"plan-purpose",
+			"Select the purpose of the plan:"
+		],
+		"hh": [
+			"field-of-law",
+			"What field of Law do you support*"
+		],
+		"hi": [
+			"legal-target-country",
+			"What field of Law do you support*"
+		],
+		"hj": [
+			"legal-language",
+			"What languages do you support*"
+		],
+		"hk": [
+			"virtual-purpose",
+			"Select a purpose*"
+		],
+		"hl": [
+			"virtual-industry",
+			"Select an industry"
+		],
+		"hm": [
+			"virtual-language",
+			"Select a language *"
+		],
+		"hn": [
+			"management-industry",
+			"Select the industries you specialize in."
+		],
+		"ho": [
+			"management-flatform",
+			"Select up to 3 platforms*"
+		],
+		"hp": [
+			"management-language",
+			"Select the language you work in.*"
+		],
+		"hq": [
+			"hr-industry",
+			"description*"
+		],
+		"hr": [
+			"hr-target-country",
+			"Which countries do you support*"
+		],
+		"hs": [
+			"project-target-country",
+			"Which countries are your target audience"
+		],
+		"ht": [
+			"supply-target-country",
+			"Which country do you support"
+		],
+		"hu": [
+			"consulting-industry",
+			"Which industries do you specialize in?*"
+		],
+		"hv": [
+			"consulting-purpose",
+			"Select the consulting purpose*"
+		],
+		"hw": [
+			"consulting-language",
+			"Select the language in which you provide your service.*"
+		],
+		"hx": [
+			"market-language",
+			"Languages you support for Market Research*"
+		],
+		"hy": [
+			"research-method",
+			"Which research methods do you offer"
+		],
+		"hz": [
+			"crm-software",
+			"Select what software you work with"
+		],
+		"h0": [
+			"crm-industry",
+			"Please select what industry you work with"
+		],
+		"h1": [
+			"financial-industry",
+			"Which industries do you support"
+		],
+		"h2": [
+			"financial-target-country",
+			"Select the country which you support"
+		],
+		"h3": [
+			"erp-software",
+			"Please select which software you work with"
+		],
+		"h4": [
+			"erp-inudstry",
+			"Please select what industry you work with"
+		],
+		"h5": [
+			"fact-language",
+			"Select the language(s) in which you offer your services.*"
+		],
+		"h6": [
+			"fact-industry",
+			"Select the industry(s) in which you offer your services*"
+		],
+		"h7": [
+			"fact-content-type",
+			"Please select the type of content that you will fact check:*"
+		],
+		"h8": [
+			"event-management-type",
+			"Select the type of event:*"
+		],
+		"h9": [
+			"occasion",
+			"Select the occasion of the event:*"
+		],
+		"ia": [
+			"event-content-type",
+			"If you work with virtual events, select if your virtual event will be live or recorded:"
+		],
+		"ib": [
+			"event-platform",
+			"If you work with virtual or hybrid events, select the platform your event will be held on:"
+		],
+		"ic": [
+			"pricing-model",
+			"Select the pricing model of the events you work with:"
+		],
+		"id": [
+			"game-genre",
+			"Select the genre of games you develop."
+		],
+		"ie": [
+			"game-concept-type",
+			"Select the game type *"
+		],
+		"if": [
+			"game-platform-type",
+			"Select up to 3 platforms for which you build games."
+		],
+		"ig": [
+			"monetization-model",
+			"Select the monetization model"
+		],
+		"ih": [
+			"game-purpose",
+			"Select the game purpose"
+		],
+		"ii": [
+			"composers-genre",
+			"Choose three genres that best fit you*"
+		],
+		"ij": [
+			"composers-purpose",
+			"Select the purpose for which you produce/compose music"
+		],
+		"ik": [
+			"composers-software",
+			"Choose what software/DAW(s) you can work in. A buyer may want to collaborate with someone in the same DAW. *"
+		],
+		"il": [
+			"gender",
+			"Select the gender with which you identify*"
+		],
+		"im": [
+			"singers-genre",
+			"Choose two genres that best fit you*"
+		],
+		"in": [
+			"singers-language",
+			"Select the language or languages you can sing in.*"
+		],
+		"io": [
+			"session-instrument",
+			"What type of instrument do you play?*"
+		],
+		"ip": [
+			"session-genre",
+			"Choose up to two genres that best fit your skills*"
+		],
+		"iq": [
+			"songwriters-genre",
+			"Choose up to 3 genres that best reflect your songwriting skills*"
+		],
+		"ir": [
+			"jingles-purpose",
+			"Please select the primary purpose you create Jingles/Intros for:*"
+		],
+		"is": [
+			"jingles-style",
+			"Select the style that you deliver*"
+		],
+		"it": [
+			"mixing-genre",
+			"Choose three genres that best fit your service.*"
+		],
+		"iu": [
+			"audio-editing-type",
+			"What types of audio editing services do you provide?*"
+		],
+		"iv": [
+			"vocal-language",
+			"Select your narration language*"
+		],
+		"iw": [
+			"vocal-gender",
+			"Select your gender:*"
+		],
+		"ix": [
+			"vocal-purpose",
+			"Select the type of voice over you provide*"
+		],
+		"iy": [
+			"vocal-age-range",
+			"Select your age:*"
+		],
+		"iz": [
+			"tone",
+			"Select up to 5 tones of voice you deliver in this Gig*"
+		],
+		"i0": [
+			"audiobook-language",
+			"Select the language or languages you can produce Audiobooks in.*"
+		],
+		"i1": [
+			"audio-language",
+			"Select the language of your service*"
+		],
+		"i2": [
+			"audio-tone",
+			"Select the tone of voice you can deliver*"
+		],
+		"i3": [
+			"dj-language",
+			"Select the language of your service*"
+		],
+		"i4": [
+			"dj-gender",
+			"Select the gender with which you identify yourself*"
+		],
+		"i5": [
+			"dj-genre",
+			"Select the up to 2 genres for your service*"
+		],
+		"i6": [
+			"dj-tone",
+			"Select up to 3 tones you can deliver*"
+		],
+		"i7": [
+			"dj-mixing-genre",
+			"Select the genre that best fits your DJ style. *"
+		],
+		"i8": [
+			"sound-purpose",
+			"Select the purpose for which you create sound design*"
+		],
+		"i9": [
+			"mixing-type",
+			"Select the type of mixing you provide*"
+		],
+		"ja": [
+			"synth-genre",
+			"Choose the genres that best fit your sounds.*"
+		],
+		"jb": [
+			"synthesizer-type",
+			"Are you offering sound design for a virtual soft-synth or a hard-synth?*"
+		],
+		"jc": [
+			"vst-synthesizer-type",
+			"Which VST soft-synth are you making your presets with?"
+		],
+		"jd": [
+			"mixing-style",
+			"Choose the unique mixing styles you offer. *"
+		],
+		"je": [
+			"logo-purpose",
+			"Choose where the audio logo can be used. *"
+		],
+		"jf": [
+			"instruments",
+			"Select the instruments you transcribe*"
+		],
+		"jg": [
+			"music-file-format",
+			"Select the file formats you provide*"
+		],
+		"jh": [
+			"logo style",
+			"Select your logo style:*"
+		],
+		"ji": [
+			"logo type",
+			"Select your logo types:*"
+		],
+		"jj": [
+			"file format",
+			"Select the file formats you provide in your basic Gig or Extras"
+		],
+		"jk": [
+			"style",
+			"Select the style of the logo you design:*"
+		],
+		"jl": [
+			"main type",
+			"What type of product do you design?*"
+		],
+		"jm": [
+			"website type",
+			"Select the website types you design.*"
+		],
+		"jn": [
+			"platform & tool",
+			"Choose the platforms or design tools that you use for this service:*"
+		],
+		"jo": [
+			"app type",
+			"Select the types of applications you specialize in:*"
+		],
+		"jp": [
+			"design tool",
+			"Select the design tools you deliver in your service or Extras:*"
+		],
+		"jq": [
+			"device",
+			"What device do you design for?*"
+		],
+		"jr": [
+			"field-of-expertise",
+			"Select your field of expertise"
+		],
+		"js": [
+			"game-art-dimension",
+			"Select the dimension in which you design games."
+		],
+		"jt": [
+			"art-style",
+			"Select the style of game you design:"
+		],
+		"ju": [
+			"game-file-format",
+			"Select the file formats in which you deliver:"
+		],
+		"jv": [
+			"design-software",
+			"Select the software you work on*"
+		],
+		"jw": [
+			"language",
+			"Please select the relevant language(s) for the resume design.*"
+		],
+		"jx": [
+			"industry",
+			"Select the industries in which you specialize*"
+		],
+		"jy": [
+			"file type",
+			"Select the type of file that you will deliver.*"
+		],
+		"jz": [
+			"social-media-design-platform",
+			"Select the social media platforms for which you design:*"
+		],
+		"j0": [
+			"image-file-format",
+			"Select the file formats you provide in your basic Gig or Extras:"
+		],
+		"j1": [
+			"online-instruments",
+			"Please select the instrument you teach in this Gig.*"
+		],
+		"j2": [
+			"style",
+			"Select your illustration style:*"
+		],
+		"j3": [
+			"ARTISTIC TECHNIQUE",
+			"Select the artistic technique you specialize in:*"
+		],
+		"j4": [
+			"theme",
+			"Select your illustration theme:*"
+		],
+		"j5": [
+			"subject",
+			"Select the subject of your illustration:*"
+		],
+		"j6": [
+			"ARTISTIC TECHNIQUE",
+			"Select the artistic technique you specialize in:*"
+		],
+		"j7": [
+			"Age",
+			"Select an age range*"
+		],
+		"j8": [
+			"landscape-design-file-format",
+			"Select the file formats you provide in your gig:"
+		],
+		"j9": [
+			"landscape-design-software",
+			"Select the software you work with:"
+		],
+		"ka": [
+			"Genre",
+			"Select the children's book genre*"
+		],
+		"kb": [
+			"AI ENGINE",
+			"Select the main AI engine you use.*"
+		],
+		"kc": [
+			"ART DIMENSION",
+			"Select the dimension in which you create art.*"
+		],
+		"kd": [
+			"design style",
+			"Select the design style of the pattern*"
+		],
+		"ke": [
+			"design technique",
+			"Select the design technique you specialize in*"
+		],
+		"kf": [
+			"PURPOSE",
+			"Select the purpose of the pattern *"
+		],
+		"kg": [
+			"PATTERN THEME",
+			"Please select the theme of the pattern.*"
+		],
+		"kh": [
+			"PURPOSE",
+			"Select the purpose of the posters you design"
+		],
+		"ki": [
+			"PURPOSE",
+			"Select the purpose of the brochures you design"
+		],
+		"kj": [
+			"FORMAT TYPE",
+			"What type of product do you design?*"
+		],
+		"kk": [
+			"IMAGE FILE FORMAT",
+			"Select the file formats you provide in your basic Gig or Extras:"
+		],
+		"kl": [
+			"DESIGN STYLE",
+			"Select your design style.*"
+		],
+		"km": [
+			"GENRE",
+			"Select your book genre*"
+		],
+		"kn": [
+			"FILE FORMAT",
+			"Select the file formats you provide in your basic Gig or Extras"
+		],
+		"ko": [
+			"DESIGN STYLE",
+			"Select your Album Cover Design Style.*"
+		],
+		"kp": [
+			"MUSICAL GENRE",
+			"Select your Musical Genre.*"
+		],
+		"kq": [
+			"ALBUM TYPE",
+			"Select your Album Type.*"
+		],
+		"kr": [
+			"PODCAST COVER STYLE",
+			"Select your podcast cover art style:*"
+		],
+		"ks": [
+			"PRODUCT TYPE",
+			"What type of package or label design do you offer?*"
+		],
+		"kt": [
+			"FILE FORMAT",
+			"Select the file formats you will provide in your service"
+		],
+		"ku": [
+			"PURPOSE",
+			"Select the purpose of the storyboards you create."
+		],
+		"kv": [
+			"platform",
+			"Select the social media platforms for which you design:*"
+		],
+		"kw": [
+			"FORMAT TYPE",
+			"Select the type of catalog you design"
+		],
+		"kx": [
+			"purpose",
+			"Select the purpose of the menus you design"
+		],
+		"ky": [
+			"MAIN TYPE",
+			"What type of invitations do you design?"
+		],
+		"kz": [
+			"ILLUSTRATION TYPE",
+			"Select the type of illustration you usually provide*"
+		],
+		"k0": [
+			"ILLUSTRATION style",
+			"Select your illustration styles*"
+		],
+		"k1": [
+			"main type",
+			"Select the type of cartoons you provide:*"
+		],
+		"k2": [
+			"ILLUSTRATION style",
+			"Select the style of cartoons you provide:"
+		],
+		"k3": [
+			"TATTOO STYLE",
+			"Select your tattoo design style:"
+		],
+		"k4": [
+			"Color Type",
+			"Select whether you offer tattoo designs in Color or Black & White:"
+		],
+		"k5": [
+			"SIGNAGE TYPE",
+			"Select the type of signage that you design"
+		],
+		"k6": [
+			"MAIN TYPE",
+			"Select the types of banner you design:"
+		],
+		"k7": [
+			"EDITING TYPE",
+			"Select the editing services you provide:"
+		],
+		"k8": [
+			"PROJECT SCALE",
+			"Select the project scale you refer to in your service:"
+		],
+		"k9": [
+			"BUILDING TYPE",
+			"Select the relevant building type:"
+		],
+		"la": [
+			"IMAGE FILE FORMAT",
+			"Select the file formats you provide in your basic service or Extras:"
+		],
+		"lb": [
+			"FILE FORMAT",
+			"Select the file formats you provide in your service:"
+		],
+		"lc": [
+			"SOFTWARE",
+			"Select the software you work with:"
+		],
+		"ld": [
+			"PURPOSE",
+			"Select the purpose of the 3D models you create."
+		],
+		"le": [
+			"STYLE",
+			"Select the design style of your model."
+		],
+		"lf": [
+			"FILE FORMAT",
+			"Select the file formats in which you deliver."
+		],
+		"lg": [
+			"FIELD OF EXPERTISE",
+			"Select your field of expertise."
+		],
+		"lh": [
+			"DESIGN SOFTWARE",
+			"Select the software you work on*"
+		],
+		"li": [
+			"game dimension",
+			"Select the dimension in which you design games."
+		],
+		"lj": [
+			"style",
+			"Select the style of game you design:"
+		],
+		"lk": [
+			"file format",
+			"Select the file formats in which you deliver:"
+		],
+		"ll": [
+			"asset type *",
+			"Select the graphic assets you design:*"
+		],
+		"lm": [
+			"streaming platform *",
+			"Select the platforms for which you design:*"
+		],
+		"ln": [
+			"BOOTH TYPE",
+			"Select the type of booth included in your Gig:*"
+		],
+		"lo": [
+			"BOOTH LAYOUT",
+			"Select the booth's layout design you specialize in:*"
+		],
+		"lp": [
+			"Industry",
+			"Select the industries you specialize in:"
+		],
+		"lq": [
+			"MERCH TYPE",
+			"Select the merchandise type you offer*"
+		],
+		"lr": [
+			"SERVICE TYPE",
+			"Select the service type you offer in your service:"
+		],
+		"ls": [
+			"PURPOSE",
+			"Select the purpose for which you offer presentation design:"
+		],
+		"lt": [
+			"SOFTWARE",
+			"Select the software in which you design"
+		],
+		"lu": [
+			"FILE FORMAT",
+			"Select the file formats you provide"
+		],
+		"lv": [
+			"EMail Type",
+			"Select the email types you design"
+		],
+		"lw": [
+			"PLATFORM & TOOL",
+			"Choose the platforms you specialize in or your design tools"
+		],
+		"lx": [
+			"Style",
+			"Select your icon style"
+		],
+		"ly": [
+			"PURPOSE",
+			"Select the purpose of your icon"
+		],
+		"lz": [
+			"FILE FORMAT",
+			"Select the file formats you provide"
+		],
+		"l0": [
+			"VEHICLE TYPE",
+			"Select the vehicle for which you will design"
+		],
+		"l1": [
+			"TOPIC",
+			"Select the topics of your expertise"
+		],
+		"l2": [
+			"LESSON TYPE",
+			"Select the type of lessons you're offering"
+		],
+		"l3": [
+			"website type",
+			"Select the website type you support"
+		],
+		"l4": [
+			"WEBSITE FEATURES",
+			"Select the features you support"
+		],
+		"l5": [
+			"WEBSITE FEATURES",
+			"Select the features you support"
+		],
+		"l6": [
+			"strategy-industry-expertise",
+			"Select your industry expertise (if any)"
+		],
+		"l7": [
+			"PLUGINS",
+			"Select the plugins you support"
+		],
+		"l8": [
+			"PLUGINS",
+			"Select the plugins you support"
+		]
+	},
+	"categoryScope": {
+		
+	},
+	"categoryExtra": {
+		
+	},
+	"countries": {
+		
+	},
+	"languages": {
+		
+	},
+	"languageProficiency": [
+		
+	],
+	"monthname": [
+		
+	],
+	"certifications": [
+		
+	],
+	"fiats": {
+		
+	},
+	"timezones": [
+		
+	],
+	"error": {
+		
+	}
+}
